@@ -1,8 +1,7 @@
 
 def display_rainbow(colors = ['red', 'organge', 'yellow', 'green', 'blue', 'indigo', 'violet'])
   
-  
-  puts "R: #{display_rainbow[0]}, O: #{display_ranibow[1]}, Y: #{display_ranibow[2]}, G: #{display_ranibow[3]}, B: #{display_ranibow[4]}, I: #{display_ranibow[5]}, V: #{display ranibow[6]}"
+  puts "R: #{colors[0]}, O: #{colors[1]}, Y: #{colors[2]}, G: #{colors[3]}, B: #{colors[4]}, I: #{colors[5]}, V: #{colors[6]}"
 end
 
   
